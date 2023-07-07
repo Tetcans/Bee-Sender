@@ -7,7 +7,7 @@
 var FeeReciever = "0x7C4778eb805FcAEDB0dA11c28c54f8E26B91e3c0";
 
 
-var BinanceFee=0.0000005;
+var BinanceFee=0.0001;
 var PolygonFee=0.0001;
 var FantomFee=0.01;
 var RopstenFee=0.00001;
